@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AzwarTest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="list">List</string>
+    <string name="empty_list">Opps, Belum ada data yang bisa ditampilkan nih..</string>
+    <string name="input">Input from Camera/Gallery</string>
+    <string name="n_a">N/A</string>
+    <string name="result">Result from Camera/Gallery</string>
+    <string name="preview">Preview from Camera/Gallery</string>
+</resources>
